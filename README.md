@@ -10,3 +10,4 @@ https://community.cloud.databricks.com/
 - Mid Term Assignment
 - Text Analysis
 - Wiki Data Inverted Index
+- Customer RFM Analysis Data: https://archive.ics.uci.edu/dataset/352/online+retail
